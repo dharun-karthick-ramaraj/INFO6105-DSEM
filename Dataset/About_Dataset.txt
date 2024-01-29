@@ -1,0 +1,36 @@
+Link to Dataset - https://www.kaggle.com/datasets/chancev/carsforsale/data
+
+About Dataset
+This data was scraped from postings on a popular online auto marketplace. The dataset contains information from each posting, including features such as the make, model, year, exterior color, drivetrain, etc. If you would like to see the code used to scrape the data, please visit https://github.com/cvandergeugten/Cars.com-Data-Project/blob/main/car_data_scraper.py
+
+Column Info:
+Year: Model year
+Make: Brand of the car
+Model: Car model
+Used/New: Whether the car being sold is used, new, or certified.
+Price: Listing price
+Consumer Rating: Average consumer rating based on submitted consumer reviews
+Consumer Reviews: The number of reviews submitted for the car in the listing
+SellerType: Whether the seller is a dealer or private
+SellerName: Name of the seller
+StreetName: Name of the street where the seller is located
+State: State of the seller's location
+Zipcode: Zipcode of the seller's location
+DealType: How good is the deal based on the average market price for the car in the listing? (Great, Good, Fair, NA)
+ComfortRating: How consumers rated the car's comfort
+InteriorDesignRating: How consumers rated the car's interior design
+PerformanceRating: How consumers rated the car's performance
+ValueForMoneyRating: How consumers rated the car's value for the price
+ExteriorStylingRating: How consumers rated the car's exterior styling
+ReliabilityRating: How consumers rated the car's reliability
+ExteriorColor: The car's exterior color
+InteriorColor: The car's interior color
+Drivetrain: The drivetrain type of the car
+MinMPG: Bottom end miles per gallon
+MaxMPG: Top end miles per gallon
+FuelType: Type of fuel that the car uses. (Gas, Electric, Hybrid, etc.)
+Transmission: Type of transmission
+Engine: Name of the engine
+VIN: VIN Number
+Stock# : The listing's stock number
+Mileage: Number of miles on the car
